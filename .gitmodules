@@ -1,6 +1,0 @@
-[submodule "surprise/Surprise"]
-	path = surprise/Surprise
-	url = https://github.com/NicolasHug/Surprise.git
-[submodule "Surprise"]
-	path = Surprise
-	url = https://github.com/NicolasHug/Surprise
